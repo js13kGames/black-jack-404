@@ -1,4 +1,8 @@
 ---
+genres:
+  - card-games
+  - tabletop
+  - strategy
 post: https://reitgames.com/news/black-jack-404-post-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
